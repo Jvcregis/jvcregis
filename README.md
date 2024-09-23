@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Vítor Cavalcanti Régis
+# 👋 Hi, I'm Régis
 
 ## 🎓 About Me
 I am currently a computer science student at the **Federal University of Pernambuco (UFPE)**, pursuing my passion for **cybersecurity**. With hands-on experience in **Intrusion Detection Systems** and **Automotive Network Security**, I’m constantly expanding my knowledge in the field.
