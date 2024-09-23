@@ -13,7 +13,7 @@ I value **continuous learning**, **collaboration**, and staying at the forefront
 - **Other**: Git, Linux, Bash
 
 ## 🌱 Currently Learning
-I’m currently working on strengthen my **cybersecurity basis**, having a sip of every area to decide in which direction I should go with my career.
+I’m currently building a strong foundation in cybersecurity by exploring various areas, allowing me to determine the best direction for my future career.
 
 ## 💼 Experience
 - **Voluntary Research Project:** Focused on Feature Selection methods and Intrusion Detection Systems with AI applications.
