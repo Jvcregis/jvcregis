@@ -5,8 +5,6 @@ I am currently a computer science student at the **Federal University of Pernamb
 
 I value **continuous learning**, **collaboration**, and staying at the forefront of cybersecurity trends. My interest lies in leveraging **AI-driven security solutions** to address emerging challenges and enhance system defenses.
 
----
-
 ## 🔧 My Skills
 - **Cybersecurity**: Intrusion Detection Systems, Network Security (Automotive CAN and Ethernet)
 - **Programming Languages**: Python, C, C++
@@ -14,19 +12,13 @@ I value **continuous learning**, **collaboration**, and staying at the forefront
 - **Hardware:** Raspberry PI, TSN Box
 - **Other**: Git, Linux, Bash
 
----
-
 ## 🌱 Currently Learning
 I’m currently working on strengthen my **cybersecurity basis**, having a sip of every area to decide in which direction I should go with my career.
-
----
 
 ## 💼 Experience
 - **Voluntary Research Project:** Focused on Feature Selection methods and Intrusion Detection Systems with AI applications.
 - **Cybersecurity in Automotive Networks**: Part of a research project in Intrusion Detection with Machine Learning in Automotive Networks.
 - **Project Over-The-Air Updates**: Research on secure over-the-air software updates for vehicles.
-
----
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/Jvcregis)
