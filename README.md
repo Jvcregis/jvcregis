@@ -1,28 +1,38 @@
-# 👋 Hi, I'm Régis
+# 👋 Hi, I'm João Vítor Cavalcanti Régis
+
+![Banner](https://github.com/Jvcregis/jvcregis/blob/main/banner.jpg)
 
 ## 🎓 About Me
 I am currently a computer science student at the **Federal University of Pernambuco (UFPE)**, pursuing my passion for **cybersecurity**. With hands-on experience in **Intrusion Detection Systems** and **Automotive Network Security**, I’m constantly expanding my knowledge in the field.
 
-I value **continuous learning**, **collaboration**, and staying at the forefront of cybersecurity trends. My interest lies in leveraging **AI-driven security solutions** to address emerging challenges and enhance system defenses.
+I believe in **continuous learning**, **collaboration**, always staying up-to-date with the latest trends in cybersecurity **AI-driven security solutions** to address emerging challenges and enhance system defenses.
 
 ## 🔧 My Skills
-- **Cybersecurity**: Intrusion Detection Systems, Network Security (Automotive CAN and Ethernet)
-- **Programming Languages**: Python, C, C++
-- **Artificial Intelligence**: Machine Learning, Deep Learning, TensorFlow, scikit-learn, PyTorch
-- **Hardware:** Raspberry PI, TSN Box
-- **Other**: Git, Linux, Bash
+- 🛡️ **Cybersecurity**: Intrusion Detection Systems, Network Security (Automotive CAN and Ethernet)
+- 💻 **Programming Languages**: Python, C, C++
+- 🤖 **Artificial Intelligence**: Machine Learning, Deep Learning, TensorFlow, scikit-learn, PyTorch
+- 🛠️ **Hardware**: Raspberry Pi, TSN Box
+- 🐧 **Other**: Git, Linux, Bash
 
 ## 🌱 Currently Learning
-I’m currently building a strong foundation in cybersecurity by exploring various areas, allowing me to determine the best direction for my future career.
+I’m currently building a comprehensive foundation in **Cybersecurity**, exploring various domains to identify the best direction for my career.
 
 ## 💼 Experience
-- **Voluntary Research Project:** Focused on Feature Selection methods and Intrusion Detection Systems with AI applications.
-- **Cybersecurity in Automotive Networks**: Part of a research project in Intrusion Detection with Machine Learning in Automotive Networks.
-- **Project Over-The-Air Updates**: Research on secure over-the-air software updates for vehicles.
+- 🔍 **Voluntary Research Project**: Focused on **Feature Selection Methods** and **Intrusion Detection Systems** using AI.
+- 🚗 **Cybersecurity in Automotive Networks**: Researching **Intrusion Detection with Machine Learning** in **Automotive Networks**.
+- 🌐 **Over-The-Air Updates**: Working on secure **Over-the-Air Software Updates** for vehicles.
 
 ## 🔗 Connect with Me
-- [GitHub](https://github.com/Jvcregis)
-- [LinkedIn](http://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-cavalcanti-r%C3%A9gis-0016322b9)
-- [Lattes](http://lattes.cnpq.br/2344660536072855)
+<p align="center">
+  <a href="https://github.com/Jvcregis">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="http://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-cavalcanti-r%C3%A9gis-0016322b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://lattes.cnpq.br/2344660536072855">
+    <img src="https://img.shields.io/badge/Lattes-4682B4?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
