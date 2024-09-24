@@ -5,7 +5,7 @@
 ## 🎓 About Me
 I am currently a computer science student at the **Federal University of Pernambuco (UFPE)**, pursuing my passion for **cybersecurity**. With hands-on experience in **Intrusion Detection Systems** and **Automotive Network Security**, I’m constantly expanding my knowledge in the field.
 
-I believe in **continuous learning**, **collaboration**, always staying up-to-date with the latest trends in cybersecurity **AI-driven security solutions** to address emerging challenges and enhance system defenses.
+I believe in **continuous learning** and **collaboration**, always staying up-to-date with the latest trends in cybersecurity **AI-driven security solutions** to address emerging challenges and enhance system defenses.
 
 ## 🔧 My Skills
 - 🛡️ **Cybersecurity**: Intrusion Detection Systems, Network Security (Automotive CAN and Ethernet)
