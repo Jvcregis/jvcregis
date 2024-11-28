@@ -26,7 +26,7 @@ I’m currently building a comprehensive foundation in **Cybersecurity**, explor
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
-<a href="http://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-cavalcanti-r%C3%A9gis-0016322b9">
+<a href="http://www.linkedin.com/in/Jvcregis">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="http://lattes.cnpq.br/2344660536072855">
