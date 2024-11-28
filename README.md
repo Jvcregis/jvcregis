@@ -9,9 +9,9 @@ I believe in **continuous learning** and **collaboration**, always staying up-to
 
 ## 🔧 My Skills
 - 🛡️ **Cybersecurity**: Intrusion Detection Systems, Network Security (Automotive CAN and Ethernet)
-- 💻 **Programming Languages**: Python, C, C++
+- 💻 **Programming Languages**: Python, C++, Rust, Haskell, Kotlin
 - 🤖 **Artificial Intelligence**: Machine Learning, Deep Learning, TensorFlow, scikit-learn, PyTorch
-- 🛠️ **Hardware**: Raspberry Pi, TSN Box
+- 🛠️ **Hardware**: Raspberry Pi, TSN Box, Esp32
 - 🐧 **Other**: Git, Linux, Bash
 
 ## 🌱 Currently Learning
