@@ -1,6 +1,5 @@
 # 👋 Hi, I'm João Régis
 
-## 🎓 About Me
 I'm currently a Computer Science undergraduate at UFPE with experience in cybersecurity, threat intelligence, intrusion detection, and security research.
 
 ## 🔗 Connect with Me
