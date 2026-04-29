@@ -6,6 +6,6 @@ I'm currently a Computer Science undergraduate at UFPE with experience in cybers
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
-<a href="http://www.linkedin.com/in/Jvcregis">
+<a href="https://www.linkedin.com/in/jvcregis">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
